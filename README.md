@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+
+Here you can see my portfolio in HTML https://dcastf01.github.io/profile/
+
+
+Also if you want to directly access some of the repositories I have to get an idea of my programming, these are the ones I have done and can share. The most professional ones are owned by the companies where I have worked.
+
+
+Some of them may be more than two years old
+
+* https://github.com/dcastf01/web_scrapping_startup_swiss
+* https://github.com/dcastf01/graphs_from_scratch
+* https://github.com/dcastf01/API_to_ticket_ticket_to_ride/tree/main/ticket_to_ride --> Was two years ago as an app to my girlfriends
+* https://github.com/dcastf01/bego_challenge_2022/blob/main/streamlit_app.py --> Another app gift
+* https://github.com/dcastf01/exercise_playtika -> Is in private but you can visualize a data exploration and two pipelines, one with deep learning and another one with only machine learning and the creation of the docker and api and also Wandb to tool to monitor the train. (I would need you account to github to share with you this one). 
+* https://github.com/dcastf01/hackaton-cajamar-2022 -> Hackaton in relation to temporal series
+* https://github.com/dcastf01/hackaton_ocean_problem -> Deep learning problem solved using PyTorchLightning (two years ago)
 ---
 
 ### ⚡ GitHub Stats
